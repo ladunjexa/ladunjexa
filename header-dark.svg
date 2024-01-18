@@ -215,8 +215,8 @@
   <!-- available for hire -->
   <g class="animate-fade-in-right additional">
     <g class="additional__indicator animate-fade-in">
-      <circle cx="245" cy="125" r="5" fill="#C4B5FD" class="animate-ping" />
-      <circle cx="245" cy="125" r="3" fill="#C4B5FD" />
+      <circle cx="245" cy="125" r="3" fill="#C4B5FD" class="animate-ping" />
+      <circle cx="245" cy="125" r="2" fill="#C4B5FD" />
     </g>
     <g filter="url(#filter1_d_4303_1123)">
       <path
