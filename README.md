@@ -29,7 +29,7 @@
 <br />
 <br />
 
-<!-- <details>
+<details>
   <summary><h2>📊 Statistics</h2></summary>
   <div>
     <br />
@@ -57,4 +57,4 @@
       </a>
     </div>
   </div>
-</details> -->
+</details>
