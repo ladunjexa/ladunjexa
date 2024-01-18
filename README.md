@@ -1,4 +1,4 @@
-<a href="https://ladunjexa.vercel.app/work/contact">
+<a href="https://ladunjexa.vercel.app/">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
