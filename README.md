@@ -43,16 +43,20 @@
       <a href="https://github.com/ladunjexa?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ladunjexa&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ladunjexa&count_private=true" />
-          <img alt="Liron Abutbul's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ladunjexa&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ladunjexa&show_icons=true&title_color=7733ff&icon_color=475569&text_color=475569&text_bold=false&count_private=true
+" />
+          <img alt="Liron Abutbul's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ladunjexa&show_icons=true&title_color=7733ff&icon_color=475569&text_color=475569&text_bold=false&count_private=true
+" />
         </picture>
       </a>
       <br /><br />
       <a href="https://github.com/ladunjexa?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ladunjexa&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ladunjexa" />
-          <img alt="Liron Abutbul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ladunjexa&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ladunjexa&show_icons=true&title_color=7733FF&icon_color=475569&text_color=475569&text_bold=false&count_private=true&ring_color=7733ff
+" />
+          <img alt="Liron Abutbul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ladunjexa&show_icons=true&title_color=7733FF&icon_color=475569&text_color=475569&text_bold=false&count_private=true&ring_color=7733ff
+" />
         </picture>
       </a>
     </div>
