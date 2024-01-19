@@ -1,7 +1,7 @@
 {
   "overrides": [
     {
-      "files": "*.svg",
+      "files": ["*.svg", "*.md"],
       "options": {
         "parser": "html"
       }
