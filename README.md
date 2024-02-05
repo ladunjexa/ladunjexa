@@ -97,6 +97,25 @@
     />
   </a>
   <!-- End of GitHub Stats -->
+  <br /><br />
+  <!-- GitHub Streak Stats -->
+  <a
+    href="https://github.com/ladunjexa?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only"
+  >
+    <img
+      alt="Liron Abutbul's GitHub Streak Stats"
+      src="https://streak-stats.demolab.com?user=ladunjexa&stroke=7733FF&ring=7733FF&fire=7733FF&currStreakNum=7733FF&sideNums=7733FF&currStreakLabel=475569&sideLabels=475569&dates=475569&excludeDaysLabel=475569&hide_border=true"
+    />
+  </a>
+  <a
+    href="https://github.com/ladunjexa?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only"
+  >
+    <img
+      alt="Liron Abutbul's GitHub Streak Stats"
+      src="https://streak-stats.demolab.com?user=ladunjexa&background=90%2c0f172a%2c1e293b&border=1e293b&stroke=c4b5fd&ring=7733FF&fire=7733FF&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1&excludeDaysLabel=cbd5e1"
+    />
+  </a>
+  <!-- End of GitHub Streak Stats -->
   <!-- <br /><br /> -->
   <!-- Contribution Graph -->
   <!-- <a
