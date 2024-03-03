@@ -66,7 +66,7 @@
   >
     <img
       alt="Liron Abutbul's Most Used Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ladunjexa&show_icons=true&title_color=7733ff&icon_color=475569&text_color=475569&text_bold=false&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ladunjexa&show_icons=true&title_color=7733ff&icon_color=475569&text_color=475569&text_bold=false&count_private=true&bg_color=e2e8f0"
     />
   </a>
   <a
@@ -85,7 +85,7 @@
   >
     <img
       alt="Liron Abutbul's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=ladunjexa&show_icons=true&title_color=7733FF&icon_color=475569&text_color=475569&text_bold=false&count_private=true&ring_color=7733ff"
+      src="https://github-readme-stats.vercel.app/api?username=ladunjexa&show_icons=true&title_color=7733FF&icon_color=475569&text_color=475569&text_bold=false&count_private=true&ring_color=7733ff&bg_color=e2e8f0"
     />
   </a>
   <a
@@ -104,7 +104,7 @@
   >
     <img
       alt="Liron Abutbul's GitHub Streak Stats"
-      src="https://streak-stats.demolab.com?user=ladunjexa&stroke=7733FF&ring=7733FF&fire=7733FF&currStreakNum=7733FF&sideNums=7733FF&currStreakLabel=475569&sideLabels=475569&dates=475569&excludeDaysLabel=475569&hide_border=true"
+      src="https://streak-stats.demolab.com?user=ladunjexa&stroke=7733FF&ring=7733FF&fire=7733FF&currStreakNum=7733FF&sideNums=7733FF&currStreakLabel=475569&sideLabels=475569&dates=475569&excludeDaysLabel=475569&hide_border=true&background=e2e8f0"
     />
   </a>
   <a
