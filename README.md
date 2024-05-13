@@ -56,7 +56,7 @@
           <img
             align="left"
             alt="This week GitHub profile views"
-            src="https://komarev.com/ghpvc/?username=ladunjexa&style=flat&color=7733ff&label=This+week+GitHub+profile+views"
+            src="https://komarev.com/ghpvc/?username=ladunjexa&style=flat&color=7733ff&label=Weekly+GitHub+Profile+Views"
           />
         </a>
         <!-- End of Weekly profile views -->
@@ -65,7 +65,7 @@
           <img
             align="right"
             alt="Sponsor @ladunjexa"
-            src="https://img.shields.io/static/v1?color=%237733ff&label=Sponsor&message=@ladunjexa&style=flat&logo=amp&logoColor=ffffff&labelColor=334155"
+            src="https://img.shields.io/static/v1?color=%237733ff&label=Sponsor&message=@ladunjexa&style=flat&logo=githubsponsors&logoColor=ffffff&labelColor=334155"
           />
         </a>
         <!-- End of Sponsor @ladunjexa -->
