@@ -169,7 +169,7 @@
         >
           <img
             alt="Ladunjexa's Contribution Graph"
-            src="https://github-readme-activity-graph.vercel.app/graph?username=ladunjexa&bg_color=fffefe&color=475569&line=7733FF&point=475569&hide_border=true&area=true&area_color=7733FF&height=370"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=ladunjexa&bg_color=fffefe&color=475569&line=7733FF&point=475569&hide_border=true&area=true&area_color=7733FF&height=370&border=10"
           />
         </a>
         <a
@@ -177,7 +177,7 @@
         >
           <img
             alt="Ladunjexa's Contribution Graph"
-            src="https://github-readme-activity-graph.vercel.app/graph?username=ladunjexa&bg_color=0f172a&color=cbd5e1&line=c4b5fd&point=475569&hide_border=true&area=true&area_color=c4b5fd&height=370"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=ladunjexa&bg_color=0f172a&color=cbd5e1&line=c4b5fd&point=475569&hide_border=true&area=true&area_color=c4b5fd&height=370&border=10"
           />
         </a>
         <!-- End of Contribution Graph -->
