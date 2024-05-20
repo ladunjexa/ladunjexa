@@ -143,7 +143,7 @@
         >
           <img
             alt="Ladunjexa's Skills"
-            src="https://skillicons.dev/icons?i=c,html,java,js,md,py,ts,dart,astro,express,flutter,nextjs,threejs,nodejs,arduino,react,atom,eclipse,pycharm,visualstudio,vscode,codepen,idea,appwrite,mongodb,supabase,graphql,prisma,css,sass,tailwind,materialui,styledcomponents,windows,linux,ubuntu,bash,docker,git,figma,github,notion,postman,redux,vite,vitest,vercel,babel,npm,pnpm&perline=5&theme=light"
+            src="https://skillicons.dev/icons?i=c,html,java,js,md,py,ts,nextjs,react,nodejs,express,eclipse,pycharm,vscode,idea,appwrite,mongodb,css,sass,tailwind,materialui,ubuntu,git,figma,github,notion,postman,vite,vitest,vercel&perline=5&theme=light"
           />
         </a>
         <a
@@ -151,7 +151,7 @@
         >
           <img
             alt="Ladunjexa's Skills"
-            src="https://skillicons.dev/icons?i=c,html,java,js,md,py,ts,dart,astro,express,flutter,nextjs,threejs,nodejs,arduino,react,atom,eclipse,pycharm,visualstudio,vscode,codepen,idea,appwrite,mongodb,supabase,graphql,prisma,css,sass,tailwind,materialui,styledcomponents,windows,linux,ubuntu,bash,docker,git,figma,github,notion,postman,redux,vite,vitest,vercel,babel,npm,pnpm&perline=5"
+            src="https://skillicons.dev/icons?i=c,html,java,js,md,py,ts,nextjs,react,nodejs,express,eclipse,pycharm,vscode,idea,appwrite,mongodb,css,sass,tailwind,materialui,ubuntu,git,figma,github,notion,postman,vite,vitest,vercel&perline=5"
           />
         </a>
         <!-- End of Skills -->
