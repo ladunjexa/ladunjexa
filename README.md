@@ -56,7 +56,7 @@
           <img
             align="left"
             alt="This week GitHub profile views"
-            src="https://komarev.com/ghpvc/?username=ladunjexa&style=flat&color=7733ff&label=Weekly+GitHub+Profile+Views"
+            src="https://komarev.com/ghpvc/?username=ladunjexa&style=flat&color=7733ff&label=Weekly+GitHub+Profile+Views&abbreviated=true"
           />
         </a>
         <!-- End of Weekly profile views -->
