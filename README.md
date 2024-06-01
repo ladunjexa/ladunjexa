@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
     <img
-      alt="Ladunjexa | Freelancer · Cross-Platform Developer"
+      alt="Ladunjexa | Freelancer · Web Developer"
       src="./header.svg"
       width="100%"
     />
