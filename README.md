@@ -46,7 +46,7 @@
 <!-- Statistics -->
 <details>
   <summary>
-    <h2>📊 Statistics</h2>
+    <h3>📊 Statistics</h3>
   </summary>
   <table align="center">
     <tr>
