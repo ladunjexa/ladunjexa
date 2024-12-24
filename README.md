@@ -39,6 +39,12 @@
     <!--     <a href="https://figma.com/@lironabutbul">
       <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Figma&message=@lironabutbul&style=flat&logo=figma&logoColor=ffffff&labelColor=334155">
       </a> -->
+    <a href="https://play.google.com/store/apps/developer?id=ladunjexa">
+      <img
+        alt="My LeetCode Profile"
+        src="https://img.shields.io/static/v1?color=%237733ff&label=Apps&message=@ladunjexa&style=flat&logo=google&logoColor=ffffff&labelColor=334155"
+      />
+    </a>
   </div>
 </header>
 <!-- End of Links -->
