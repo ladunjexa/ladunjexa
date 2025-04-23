@@ -15,12 +15,12 @@
 <!-- Links -->
 <header>
   <div align="center">
-    <a href="https://ladunjexa.vercel.app">
+    <!--<a href="https://ladunjexa.vercel.app">
       <img
         alt="My Personal Website"
         src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=ladunjexa.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155"
       />
-    </a>
+    </a>-->
     <a href="https://linkedin.com/in/lironabutbul/">
       <img
         alt="My LinkedIn Profile"
