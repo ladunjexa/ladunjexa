@@ -41,8 +41,14 @@
       </a> -->
     <a href="https://play.google.com/store/apps/developer?id=ladunjexa">
       <img
-        alt="My LeetCode Profile"
+        alt="My Google Google Play Apps Profile"
         src="https://img.shields.io/static/v1?color=%237733ff&label=Apps&message=@ladunjexa&style=flat&logo=google&logoColor=ffffff&labelColor=334155"
+      />
+    </a>
+    <a href="https://github.com/ladunjexa-pbl">
+      <img
+        alt="My GitHub Org Profile"
+        src="https://img.shields.io/static/v1?color=%237733ff&label=&message=@org/ladunjexa-pbl&style=flat&logo=github&logoColor=ffffff&labelColor=334155"
       />
     </a>
   </div>
