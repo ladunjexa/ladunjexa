@@ -21,12 +21,12 @@
         src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=ladunjexa.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155"
       />
     </a>-->
-    <a href="https://linkedin.com/in/lironabutbul/">
+<!--     <a href="https://linkedin.com/in/lironabutbul/">
       <img
         alt="My LinkedIn Profile"
         src="https://img.shields.io/badge/LinkedIn-lironabutbul-7733ff?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155"
       />
-    </a>
+    </a> -->
     <!--     <a href="https://twitter.com/lironabutbul">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-lironabutbul-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
       </a> -->
