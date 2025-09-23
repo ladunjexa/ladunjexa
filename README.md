@@ -48,7 +48,7 @@
     <a href="https://github.com/ladunjexa-pbl">
       <img
         alt="My GitHub Org Profile"
-        src="https://img.shields.io/static/v1?color=%237733ff&label=&message=@org/ladunjexa-pbl&style=flat&logo=github&logoColor=ffffff&labelColor=334155"
+        src="https://img.shields.io/static/v1?color=%237733ff&label=&message=org/@ladunjexa-pbl&style=flat&logo=github&logoColor=ffffff&labelColor=334155"
       />
     </a>
   </div>
